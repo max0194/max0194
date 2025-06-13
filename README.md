@@ -4,7 +4,7 @@ I am a student at the Polar State University and studying at the Faculty of Elec
 Я студент Заполярного Государственного Университета и учусь на факультете Электроэнергетики, экономики и управления.
 
 ## Knowledge base / База знаний
-<img src="https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp=250x250" width="200" height="200"/>(https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
+<img src="https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp" width="200" height="200"/>(https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 [![С++](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp=250x250)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 [![С#](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![MS Visual Studio](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://visualstudio.microsoft.com/ru/)
