@@ -1,8 +1,10 @@
 ## Eng.: Hi, I'm Maxim. 
 I am a student at the Polar State University and studying at the Faculty of Electric Power Engineering, Economics and Management.
-## Рус.: Привет, я Максим. 
+#№ Рус.: Привет, я Максим. 
 Я студент Заполярного Государственного Университета и учусь на факультете Электроэнергетики, экономики и управления.
 
+## Knowledge base / База знаний
+https://docs.microsoft.com/en-us/cpp/?view=msvc-170
 
 
 <!--
