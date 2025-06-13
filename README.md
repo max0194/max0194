@@ -1,4 +1,9 @@
-## Hi there 👋
+## Eng.: Hi, I'm Maxim. 
+I am a student at the Polar State University and studying at the Faculty of Electric Power Engineering, Economics and Management.
+## Рус.: Привет, я Максим. 
+Я студент Заполярного Государственного Университета и учусь на факультете Электроэнергетики, экономики и управления.
+
+
 
 <!--
 **max0194/max0194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
