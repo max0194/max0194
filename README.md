@@ -4,8 +4,8 @@ I am a student at the Polar State University and studying at the Faculty of Elec
 Я студент Заполярного Государственного Университета и учусь на факультете Электроэнергетики, экономики и управления.
 
 ## Knowledge base / База знаний
-<img src="https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp" width="50" height="50"/>(https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
-<img src="https://github.com/max0194/imagesforreadme/blob/main/kisspng-c-programming-language-computer-icons-computer-pr-programming-5acadc62277db6.6978009015232441301618.png" width="50" height="50"/>(https://learn.microsoft.com/en-us/dotnet/csharp/)
+<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"> <img src="https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp" width="50" height="50"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/max0194/imagesforreadme/blob/main/kisspng-c-programming-language-computer-icons-computer-pr-programming-5acadc62277db6.6978009015232441301618.png" width="50" height="50"/></a>
 <img src="https://github.com/max0194/imagesforreadme/blob/main/20200924113653.png" width="50" height="50"/>(https://visualstudio.microsoft.com/ru/)
 <img src="https://github.com/max0194/imagesforreadme/blob/main/Visual-Paradigm-Crack.png" width="50" height="50"/>(https://www.visual-paradigm.com/)
 <img src="https://github.com/max0194/imagesforreadme/blob/main/04.CISCO_.png?raw=true" width="50" height="50"/>(https://www.cisco.com/)
