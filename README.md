@@ -4,9 +4,14 @@ I am a student at the Polar State University and studying at the Faculty of Elec
 Я студент Заполярного Государственного Университета и учусь на факультете Электроэнергетики, экономики и управления.
 
 ## Knowledge base / База знаний
-[![С++]( =250x250)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-https://docs.microsoft.com/en-us/cpp/?view=msvc-170
-
+[![С++](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
+[![С#](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![MS Visual Studio](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://visualstudio.microsoft.com/ru/)
+[![Visual Paradigm](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://www.visual-paradigm.com/)
+[![CISCO](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://www.cisco.com/)
+[![draw.io](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://www.draw.com)
+[![Figma](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://www.figma.com/)
+[![Linux](https://github.com/max0194/imagesforreadme/blob/main/cplusplus_original_logo_icon_146581.webp =250x250)](https://www.linux.org/)
 
 <!--
 **max0194/max0194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
